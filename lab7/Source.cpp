@@ -7,7 +7,7 @@ void main() {
     SetConsoleOutputCP(1251);
     char text[] = "assasbsa gasgag ab a fggd g";
     char* word;
-    int i = 1;
+    int b = 1;
 
     printf("Текст: %s\n", text);
     printf("Слова, начинающиеся на 'а':\n");
